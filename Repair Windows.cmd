@@ -14,6 +14,7 @@
 ::  Description:    This script repairs Windows system files using SFC & DISM tool.
 ::                  It is recommended to run this script a soceond time after rebboting your PC.
 ::
+::  Last Updated:   30.04.2023
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 @echo off
 color 0E
