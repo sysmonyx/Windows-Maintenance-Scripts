@@ -30,9 +30,16 @@ DEL /F /S /Q /A "%LOCALAPPDATA%\Microsoft\Windows\Explorer\thumbcache_*"
 TIMEOUT /T 2 /NOBREAK >nul
 START explorer.exe
 
+:: Restart Computer.
 echo.
-echo Complete. Please Reboot your PC.
 echo.
-
+echo Complete.
+echo.
+echo.
+echo Your PC will now Restart.
+echo.
+echo.
 pause
+cls
+shutdown /r /f /t 0
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
