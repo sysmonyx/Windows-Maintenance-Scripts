@@ -11,7 +11,7 @@
 ::           |  $$$$$$/                                            |  $$$$$$/                                                   
 ::            \______/                                              \______/                                                    
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::  Description:    This script completely reswets Windows Update & clears all pending files & operations.
+::  Description:    This script completely resets Windows Update & clears all pending files & operations.
 ::
 ::  Last Updated:   30.04.2023
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
